@@ -1,4 +1,4 @@
-
+print("Feedback")
 for i in range (1,31):
 	thougts = input(f"What did you think of day {i}? ")
 
